@@ -23,7 +23,7 @@ hello, i try to code
 <br/>
 <br/>
 
-<p align= "left">🤓</p>
+<p align= "left"></p>
 
 <a href="https://discordapp.com/users/738592899498901575">
   <img align="right" alt="Discord" width="20px" src="/images/discordsvg.svg" />
