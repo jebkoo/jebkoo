@@ -3,7 +3,7 @@
 -->
 
 # Welcome
-hello, i try to code
+Hello, I try to code.
 
 - School account
 - Washington
