@@ -3,7 +3,7 @@
 -->
 
 # Welcome
-hello, i like to code
+hello, i try to code
 
 - school account
 - washington
@@ -19,7 +19,7 @@ hello, i like to code
 </div>
 </br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=someonecantcode&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Someonecantcode's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonecantcode&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jebkoo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jebkoo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebkoo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -28,9 +28,9 @@ hello, i like to code
 
 <p align= "left">🤓</p>
 
-<a href="https://discordapp.com/users/820122787888889866">
+<a href="https://discordapp.com/users/738592899498901575">
   <img align="right" alt="Discord" width="20px" src="/images/discordsvg.svg" />
 </a>
-<a href="mailto: s-btea@lwsd.org">
+<a href="mailto: s-jekoo@lwsd.org">
   <img align="right" alt="Email" width="21px" src="/images/outlook.png" />
 </a>
