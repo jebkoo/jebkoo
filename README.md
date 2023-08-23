@@ -3,16 +3,14 @@
 -->
 
 # Welcome
-Hello, I try to code.
+Hello.
 
 - School account
 - Washington
 
 #### Langs & Tools
 <div>
-      <code><img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png" /></code>
       <code><img width="32" height="32" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></code>
-      <code><img width="32" height="32" alt="Visual Studio Code" src="https://code.visualstudio.com/assets/images/code-stable.png" /></code>  
 </div>
 </br>
 
