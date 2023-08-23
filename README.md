@@ -3,7 +3,7 @@
 -->
 
 # Welcome
-Hello.
+Hello there.
 
 - School account
 - Washington
